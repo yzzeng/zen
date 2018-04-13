@@ -1,3 +1,3 @@
 # zen
 譛
-resource collect.
+resource collect for resource-edt.
